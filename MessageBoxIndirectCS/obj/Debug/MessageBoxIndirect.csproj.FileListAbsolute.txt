@@ -1,0 +1,6 @@
+L:\MessageBoxIndirectCS\bin\Debug\MessageBoxIndirect.exe
+L:\MessageBoxIndirectCS\bin\Debug\MessageBoxIndirect.pdb
+L:\MessageBoxIndirectCS\obj\Debug\MessageBoxIndirectApp.DemoForm.resources
+L:\MessageBoxIndirectCS\obj\Debug\MessageBoxIndirect.csproj.GenerateResource.Cache
+L:\MessageBoxIndirectCS\obj\Debug\MessageBoxIndirect.exe
+L:\MessageBoxIndirectCS\obj\Debug\MessageBoxIndirect.pdb
