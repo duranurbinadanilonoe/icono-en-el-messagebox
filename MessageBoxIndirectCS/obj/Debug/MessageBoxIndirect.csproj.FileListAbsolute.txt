@@ -4,3 +4,5 @@ L:\MessageBoxIndirectCS\obj\Debug\MessageBoxIndirectApp.DemoForm.resources
 L:\MessageBoxIndirectCS\obj\Debug\MessageBoxIndirect.csproj.GenerateResource.Cache
 L:\MessageBoxIndirectCS\obj\Debug\MessageBoxIndirect.exe
 L:\MessageBoxIndirectCS\obj\Debug\MessageBoxIndirect.pdb
+G:\Mis documentos\danilo\github\iconomessagebox\icono-en-el-messagebox\MessageBoxIndirectCS\obj\Debug\MessageBoxIndirect.exe
+G:\Mis documentos\danilo\github\iconomessagebox\icono-en-el-messagebox\MessageBoxIndirectCS\obj\Debug\MessageBoxIndirect.pdb
